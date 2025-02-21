@@ -1,0 +1,20 @@
+
+/.metadata/
+/.env
+.vs/
+
+.vscode/
+
+# Ignore build outputs and dependencies
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.nuget
+
+# Ignore package managers dependencies
+node_modules/
+packages/
+
+.env
